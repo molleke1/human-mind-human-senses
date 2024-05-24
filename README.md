@@ -1,5 +1,29 @@
 # human mind & human senses
 
+## Expert review/heuristic evaluation
+
+Dit was een klein testje waarbij we onze nieuwe prototypes eens aftoetsen bij de eingebruiker. Hierbij hebben we enkele vragen gesteld over onze design requirements, maar lieten we hun ook eens onze prototypes zien en uitproberen. Hierdoor konden ze hun mening makkelijker staven en was hun mening ook veel meer "waard" voor ons. Op de foto's zie je een ingevuld exemplaar van Els Vanderheaghe.
+
+![test 1](https://github.com/molleke1/UCD_SEM1/assets/157485350/03ac984b-f389-4611-815c-a9b13e72a975)
+![test 2](https://github.com/molleke1/UCD_SEM1/assets/157485350/4485c54c-10b9-42c2-8fe8-0d1f45eeaaab)
+![test 3](https://github.com/molleke1/UCD_SEM1/assets/157485350/8e4f98d7-6a9a-4af9-9231-3e9cf326e96a)
+
+<br><br>
+Enkele zaken dat we hebben geleerd uit de testen zijn:
+<ul>
+<li>
+De posite van de sensor in de kous. <br>
+Zo zeiden ze dat ze niet zeker wisten hoe ze de sensor er in moesten steken. Het vinden van het zakje zelf was geen probleem, maar wel hoe ze de sensor moesten orienteren. Om het beste resultaat te hebben zou de punt van de sensor de binnenkant van het been moeten aanduiden (zoals 1). Het probleem hierbij is dat die punt gaat gaan drukken op je been en zo comfort zal wegnemen. Onze oplossing hiervoor is eenzelfde sensor te kopen, maar zonder uitsteeksel. Dit omdat het uitsteeksel puur is voor vast te klikken, maar aangezien we dit niet nodig hebben moet dat ook niet aanwezig zijn.
+
+![beentjes](https://github.com/molleke1/UCD_SEM1/assets/157485350/041b63fc-5897-4413-87ca-a149b8b697d3)
+
+</li>
+<li>
+De trillingen<br>
+Een van onze respondenten draagde een smartwatch en zei dat de trilling een beetje leek op de melding van een bericht op de smartwatch. Zelf hadden we nog niet zo ver gekeken en waren we even bang dat de trillingen toch geen goed idee gingen zijn omdat je zo,n meldingen meestal negeert. Bij wat verder denken wisten we echter dat dat geen probleem ging vormen aangezien onze horloge enkel gebruikt wordt voor te lopen en er zo dus ook geen misverstanden kunnen zijn met eventuele berichtjes.  
+</li>
+</ul>
+
 ## Human mind and senses
 
 Aangezien bij ons product de termen Human senses en Human mind vaak overlappen hebben we besloten deze gezamelijk te testen en bespreken. Het verschil licht hem in de details, maar in het algemeen ligt de focus bij de communicatie via de display en de positie van de sensor. </br>
